@@ -33,10 +33,13 @@ Python, firebase_admin
 
 * [Firebase Documentation](https://firebase.google.com/docs/guides?authuser=0&hl=en)
 * [Cloud Firestore](https://firebase.google.com/docs/firestore)
+* 
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 * Add View All Quotes, View Spiritual Quotes and View Motivational Quotes to the main selection level.
 * Create a Keyword search as the search query
-* I would love to make the search usable. so it would list all the quotes and could select the number a quote was assigned and have it pull up so that minor changes can be made while looking at the quote. 
+* I would love to make the search usable. so it would list all the quotes and could select the number a quote was assigned and have it pull up so that minor changes can be made while looking at the quote.
+* Add Categories
+* Add Scripture type 
