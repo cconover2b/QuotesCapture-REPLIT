@@ -4,6 +4,8 @@ Creates a database of quotes in the cloud. It stores both spiritual and motivati
 
 I have always wanted to build a cloud based quote capture system.
 
+[Check it out on REPLIT ](https://replit.com/@cconover2b/QuotesCapture#main.py)
+
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
 [Software Demo Video](http://youtube.link.goes.here)
@@ -30,10 +32,9 @@ Python, firebase_admin
 
 # Useful Websites
 
-
 * [Firebase Documentation](https://firebase.google.com/docs/guides?authuser=0&hl=en)
 * [Cloud Firestore](https://firebase.google.com/docs/firestore)
-* 
+* [GitHub-firebase-admin-python](https://github.com/firebase/firebase-admin-python/blob/master/firebase_admin/firestore.py)
 
 # Future Work
 
